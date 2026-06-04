@@ -1,5 +1,6 @@
 
-[video(video-lFyf3CoX-1780557596317)(type-csdn)(url-https://live.csdn.net/v/embed/529612)(image-https://i-blog.csdnimg.cn/direct/0ffa50aeb88f4522ab0464be1af8d3b0.png)(title-基于springboot+vue高校教室资源管理平台)]
+
+# 资料获取  点击  [**《基于springboot+vue高校教室资源管理平台》资料**](https://nwqbsc0rm1n.feishu.cn/docx/QnFZdiPRloKSzwxY7hdc6MLUnlb)
 
 ## 一、项目背景与研究意义
 
